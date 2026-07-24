@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.QBeam" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#05010F</item>
+        <item name="android:navigationBarColor">#05010F</item>
+        <item name="android:windowBackground">#05010F</item>
+    </style>
+</resources>
